@@ -1,6 +1,6 @@
 # rosdoc_lite
 
-A [forked repository](https://github.com/solarcleano/rosdoc_lite) of the rosdoc_lite official repository. It contains a fix to the hyperlink in the footnote of the webpage, so that it points to Solarcleano's GitHub.
+A [forked repository](https://github.com/solarcleano/rosdoc_lite) of the [rosdoc_lite official repository](https://github.com/ros-infrastructure/rosdoc_lite). It contains a fix to the hyperlink in the footnote of the webpage, so that it points to Solarcleano's GitHub.
 
 [rosdoc_lite](http://wiki.ros.org/rosdoc_lite) is a [ROS](http://www.ros.org) package that wraps documentation tools like [doxygen](http://www.doxygen.org), [sphinx](http://sphinx-doc.org),
 and [epydoc](http://epydoc.sourceforge.net/), for convenient generation of ROS package documentation.
